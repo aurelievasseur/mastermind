@@ -90,7 +90,8 @@ class Game
         elsif @round == 12
             puts "You lost :( The code was #{@code}"
         end
-    end       
+    end
+        
 end
 
 
